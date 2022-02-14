@@ -4,6 +4,8 @@
 
 파이썬 실습
 
+Program: PyCharm
+
 ---
 + dict 실습
 + file 실습
