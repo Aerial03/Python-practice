@@ -1,6 +1,6 @@
 # 프로젝트형 AI 개발 6회차
 
-**Python Practice**
+**[ Python Practice ]**
 
 파이썬 실습
 
